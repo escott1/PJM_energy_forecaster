@@ -1,3 +1,5 @@
-Attempt to forecast PJM wholesale energy generation using an ARIMA model, then compare the results to a Prophet model.
+High-level topic: time series energy forecasting 
 
-data source listed in the notebook
+Attempt to forecast PJM wholesale energy generation by generating and fine-tuning an ARIMA model. Then the ARIMA model is compared to an off-the-shelf output of Facebook's Prophet timeseries forecasting module.
+
+data source listed in the notebook.
